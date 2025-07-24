@@ -1,1 +1,1 @@
-I am working on a code using Python which when deployed, will be able to move the cursor continously and utlimately avoid screen timeouts on systems without having any need to increase the system timeout in setting.
+I am working on a code using Python which when deployed, will be able to move the cursor continously and utlimately avoid screen timeouts on systems without having any need to increase the system timeout in settings.
